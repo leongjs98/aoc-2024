@@ -62,7 +62,6 @@ func Puzzle2() {
 		similarityScores += leftNum * leftNumAppearanceOnRight[leftNum]
 	}
 	fmt.Println(similarityScores)
-
 }
 
 func getLists(filename string) (leftList, rightList []int) {
