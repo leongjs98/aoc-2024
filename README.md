@@ -12,3 +12,8 @@ Reading file line by line (trying to remember now)
 - fileScanner
 - split file into lines
 - loop through and get lines
+
+## Day 3 skills
+regex revision
+- or, `|`
+- matching occurence, `a{1,3}`
