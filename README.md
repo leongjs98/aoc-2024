@@ -17,3 +17,14 @@ Reading file line by line (trying to remember now)
 regex revision
 - or, `|`
 - matching occurence, `a{1,3}`
+
+## Day 4 skills
+### Puzzle 1
+tried to transpose everything into a horizontal line
+i.e. vertical, forward slash, backward slash -> horizontal
+
+then tried searching words using regex
+regex was easy but the transposing was not
+
+### Puzzle 2
+Easier to search for 'A' to find the crossing 'M' and 'S'
