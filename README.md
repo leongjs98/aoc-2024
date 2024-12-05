@@ -3,7 +3,9 @@ Using Golang
 
 ## Day 1 skills
 Reading file line by line (can't never remember this)
+
 Revision of Regex in Golang
+
 Bubble Sort
 
 ## Day 2 skills
@@ -24,7 +26,14 @@ tried to transpose everything into a horizontal line
 i.e. vertical, forward slash, backward slash -> horizontal
 
 then tried searching words using regex
+
 regex was easy but the transposing was not
 
 ### Puzzle 2
 Easier to search for 'A' to find the crossing 'M' and 'S'
+
+## Day 5 skills
+- using golang map for faster rules search
+    - didn't have to convert them to int but did it anyway
+
+- Bubble Sort to correct the updates in part 2 (had a brain fart and couldn't do it)

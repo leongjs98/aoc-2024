@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/leongjs98/aoc-2024/d4"
+	"github.com/leongjs98/aoc-2024/d5"
 )
 
 func main() {
-	d4.Puzzle2()
+	d5.Puzzle2()
 }
